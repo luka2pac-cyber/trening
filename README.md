@@ -1,0 +1,2 @@
+# trening
+ski training
